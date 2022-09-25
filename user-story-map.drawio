@@ -1,20 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2022-09-20T22:13:43.032Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="59GmPvidZJ1mRvmh04ct" version="20.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-25T18:41:43.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="GInFMDnYuR7UOx80JOEb" version="20.3.6" type="github">
   <diagram id="0Ui-a5L5wfr7f9CW8puv" name="Page-1">
-    <mxGraphModel dx="1221" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1888" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NEr4c-bM7tGuJwW1O4_i-1" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Customer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="40" width="160" height="140" as="geometry" />
+        <mxCell id="1c3U1befwzUYulpoS0hF-3" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="50" y="20" width="380" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="NEr4c-bM7tGuJwW1O4_i-2" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Passenger&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="130" width="160" height="140" as="geometry" />
+        <mxCell id="1c3U1befwzUYulpoS0hF-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1c3U1befwzUYulpoS0hF-3">
+          <mxGeometry width="380" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="NEr4c-bM7tGuJwW1O4_i-3" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Vendor&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="40" width="160" height="140" as="geometry" />
+        <mxCell id="NEr4c-bM7tGuJwW1O4_i-1" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Customer&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1c3U1befwzUYulpoS0hF-3" vertex="1">
+          <mxGeometry x="20" y="20" width="160" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="NEr4c-bM7tGuJwW1O4_i-4" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Driver&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="130" width="160" height="140" as="geometry" />
+        <mxCell id="NEr4c-bM7tGuJwW1O4_i-2" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Passenger&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1c3U1befwzUYulpoS0hF-3" vertex="1">
+          <mxGeometry x="200" y="20" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1c3U1befwzUYulpoS0hF-4" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-680" y="20" width="380" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="1c3U1befwzUYulpoS0hF-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1c3U1befwzUYulpoS0hF-4">
+          <mxGeometry width="380" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="NEr4c-bM7tGuJwW1O4_i-3" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Vendor&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1c3U1befwzUYulpoS0hF-4" vertex="1">
+          <mxGeometry x="20" y="20" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="NEr4c-bM7tGuJwW1O4_i-4" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Driver&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1c3U1befwzUYulpoS0hF-4" vertex="1">
+          <mxGeometry x="200" y="20" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1c3U1befwzUYulpoS0hF-5" value="&lt;h2&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Get Notified for Pickup&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="70" y="250" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1c3U1befwzUYulpoS0hF-6" value="&lt;h2&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Accept / Decline Pickup&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="280" y="250" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1c3U1befwzUYulpoS0hF-7" value="&lt;h2&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Set Auto Accept / Decline Pickup&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="490" y="250" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1c3U1befwzUYulpoS0hF-8" value="&lt;h2&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Create a Pickup&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="250" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1c3U1befwzUYulpoS0hF-9" value="&lt;h2&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Add Passengers to the Pickup&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="250" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1c3U1befwzUYulpoS0hF-10" value="&lt;h2&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Send Notifications before and at the time of pickup&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="250" width="160" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
